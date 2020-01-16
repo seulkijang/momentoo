@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3dc2f9fade42158ba63e",
-    "url": "/momentoo/static/js/main.3dc2f9fa.chunk.js"
+    "revision": "7fd363b3bff06ba95df2",
+    "url": "/momentoo/static/js/main.7fd363b3.chunk.js"
   },
   {
     "revision": "f2c1e6c665e9e5b57659",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/momentoo/static/js/runtime~main.2353b53c.js"
   },
   {
-    "revision": "df120058b4fc2294dcfce0ebb17edf33",
+    "revision": "0b13eb08bcc33d59846f18464ba08120",
     "url": "/momentoo/index.html"
   }
 ];
